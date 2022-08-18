@@ -13,6 +13,6 @@ Following table contains all the Project Veraison repositories and their purpose
 | [swid](https://github.com/veraison/swid) | golang implementation of `swid` package |
 | [evcli](https://github.com/veraison/evcli) | A user friendly command line tool to create and check attestation token <br />and exchange the same with Veraison Verification Service |
 | [enact-demo](https://github.com/veraison/enact-demo) | EnactTrust/Veraison interop demo and associated documentation|
-| [dice](https://github.com/veraison/dice) | Implemenation of attestation extension as defined in <br />TCG DICE Attestation Architecture|
+| [dice](https://github.com/veraison/dice) | Implemenation of attestation extension as defined in <br /> [TCG DICE Attestation Architecture](https://trustedcomputinggroup.org/wp-content/uploads/TCG_DICE_Attestation_Architecture_r22_02dec2020.pdf)|
 | [eat](https://github.com/veraison/eat) | golang implementation for working with Entity Attestation Token |
 | [community](https://github.com/veraison/community) | Project Veraison Community related documents |
