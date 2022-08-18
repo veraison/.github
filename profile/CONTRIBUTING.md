@@ -9,7 +9,7 @@ Your contribution is accepted under the [Apache 2.0 license](LICENSE).
 
 ## Community guidelines
 
-Get acquainted with our [code of conduct](CODE_OF_CONDUCT.md) that contains our
+Get acquainted with our [code of conduct](./CODE_OF_CONDUCT.md) that contains our
 community guidelines.
 
 ## Contribution
