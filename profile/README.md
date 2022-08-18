@@ -58,6 +58,10 @@ To start a conversation on any topic to do with the project, visit https://verai
 
 The software is provided under Apache-2.0. Contributions to this project are accepted under the same license.
 
+# Repositories
+
+A list of all the repositories in Project Veraison is located [here](./REPO_LIST.md)
+
 # Note:
 Please note that there is an ongoing Code Refactoring Work In Progress. Hence currently, not all componentry unit tests are enabled.
 We will be back live soon!
