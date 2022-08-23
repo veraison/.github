@@ -61,7 +61,3 @@ The software is provided under Apache-2.0. Contributions to this project are acc
 # Repositories
 
 A list of all the repositories in Project Veraison is located [here](./REPO_LIST.md)
-
-# Note:
-Please note that there is an ongoing Code Refactoring Work In Progress. Hence currently, not all componentry unit tests are enabled.
-We will be back live soon!
