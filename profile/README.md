@@ -54,8 +54,7 @@ Passcode: 535948
 To start a conversation on any topic to do with the project, visit https://veraison.zulipchat.com
 
 Acknowledgement: the Veraison project wishes to express appreciation for the sponsorship by Zulip of the project communication streams.
-[<img src="[img/myImage.png](https://github.com/zulip/zulip/blob/main/static/images/logo/zulip-icon-128x128.png)">](https://zulip.com/) 
-Zulip is an open-source modern team chat app designed to keep both live and asynchronous conversations organized.
+[Zulip](https://zulip.com) is an open-source modern team chat app designed to keep both live and asynchronous conversations organized.
 
 # License
 
