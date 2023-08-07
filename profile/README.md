@@ -64,4 +64,4 @@ The software is provided under Apache-2.0. Contributions to this project are acc
 
 # Repositories
 
-A list of all the repositories in Project Veraison is located [here](https://github.com/orgs/veraison/repositories?type=all)
+Details on the Project Veraison repositories can be found in the [Repo Guide](https://github.com/veraison/docs/blob/main/repo-guide.md).
