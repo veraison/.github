@@ -3,6 +3,8 @@
   -- SPDX-License-Identifier: Apache-2.0
 --->
 
+[![OpenSSF Best Practices](https://www.bestpractices.dev/projects/7428/badge)](https://www.bestpractices.dev/projects/7428)
+
 # Welcome To VERAISON
 <font size="6
 ">
