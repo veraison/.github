@@ -58,6 +58,8 @@ To start a conversation on any topic to do with the project, visit https://verai
 Acknowledgement: the Veraison project wishes to express appreciation for the sponsorship by Zulip of the project communication streams.
 [Zulip](https://zulip.com) is an open-source modern team chat app designed to keep both live and asynchronous conversations organized.
 
+The [Confidential Computing Consortium](https://confidentialcomputing.io) hosts a dedicated [mailing list](https://lists.confidentialcomputing.io/g/veraison).
+
 # License
 
 The software is provided under Apache-2.0. Contributions to this project are accepted under the same license.
