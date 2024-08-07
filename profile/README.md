@@ -11,7 +11,7 @@ Project _VERAISON_: **VER**ific**A**t**I**on of atte**S**tati**ON** (pronounciat
 
 <p/>
 <p align="center">
-  <img src="./veraison-logo.png"/>
+  <img src="../veraison-logo.png"/>
 </p>
 
 ## Briefly...
