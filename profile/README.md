@@ -39,7 +39,7 @@ You can access Veraison documentation under [docs](https://github.com/veraison/d
 VERAISON is a collaborative project. The current list of the individuals and organizations who maintain this project can be found [**here**](./MAINTAINERS.toml). 
 
 # Contributing
-We welcome contributions to Project Veraison. See [Contributing](./CONTRIBUTING.md) for more details. 
+We welcome contributions to Project Veraison. See [Contributing](../CONTRIBUTING.md) for more details. 
 
 # Code of Conduct
 The project applies a Code of Conduct adapted from the Contributor Covenent. See [Code of Conduct](./CODE_OF_CONDUCT.md) for further details.
