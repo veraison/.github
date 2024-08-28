@@ -3,7 +3,7 @@
 Contributions to this project are welcome. We request that you read through
 the guidelines before getting started.
 
-## Contributor License Agreement
+## Contributor License Agreement
 
 Your contribution is accepted under the [Apache 2.0 license](LICENSE).
 
