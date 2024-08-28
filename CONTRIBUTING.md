@@ -14,7 +14,7 @@ community guidelines.
 
 ## Contribution
 
-### Code quality
+### Code quality
 
 When contributing to any of the Veraison code repos, make sure that you follow the golang coding standards and
 conventions established in:
