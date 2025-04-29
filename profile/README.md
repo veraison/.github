@@ -53,7 +53,7 @@ The Meetings are held on Zoom: [Click on this meeting link to join](https://arml
 Meeting ID: 930 2486 0563
 Passcode: 535948
 
-An ICS for the public meeting can be found [here](https://github.com/veraison/community/blob/main/veraison-public-meeting.ics)
+An ICS for the public meeting can be found [here](https://raw.githubusercontent.com/veraison/community/refs/heads/main/veraison-public-meeting.ics)
 
 To start a conversation on any topic to do with the project, visit https://veraison.zulipchat.com
 
