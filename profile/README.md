@@ -71,3 +71,7 @@ Details on the Project Veraison repositories can be found in the [Repo Guide](ht
 # OpenSSF
 
 The Veraison project follows the best practices from the Open Source Security Foundation [![OpenSSF Best Practices](https://www.bestpractices.dev/projects/7428/badge)](https://www.bestpractices.dev/projects/7428).
+
+# Current Activity
+Current activity for the Veraison Project can be seen on the [Project View](https://github.com/orgs/veraison/projects?query=is%3Aopen)
+
