@@ -68,7 +68,8 @@ The software is provided under Apache-2.0. Contributions to this project are acc
 
 Details on the Project Veraison repositories can be found in the [Repo Guide](https://github.com/veraison/docs/blob/main/repo-guide.md).
 
-# OpenSSF
+# Security and OpenSSF
+The general security policy and how to disclose vulnerabilities can be found [here](https://github.com/veraison/.github/blob/main/security.md). Some repositories have separate security policies, please also check those further details.
 
 The Veraison project follows the best practices from the Open Source Security Foundation [![OpenSSF Best Practices](https://www.bestpractices.dev/projects/7428/badge)](https://www.bestpractices.dev/projects/7428).
 
