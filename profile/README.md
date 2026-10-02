@@ -36,7 +36,7 @@ You can access Veraison documentation under [docs](https://github.com/veraison/d
 
 # Maintainers
 
-VERAISON is a collaborative project. The current list of the individuals and organizations who maintain this project can be found [**here**](../MAINTAINERS.toml). 
+VERAISON is a collaborative project. The current list of the individuals who maintain this project can be found [**here**](https://github.com/veraison/community/blob/main/MAINTAINERS.md). 
 
 # Contributing
 We welcome contributions to Project Veraison. See [Contributing](../CONTRIBUTING.md) for more details. 
