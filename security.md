@@ -2,6 +2,10 @@
 The following is the default security policy for all repos within the Veraison organisation.
 Some repos may have a distinct security policy that overrides this policy, so please check the security tab for any repo of interest.
 
+**CRA stewardship**: The Veraison project is supported under the Linux Foundation CRA stewardship framework, as described at https://www.linuxfoundation.org/security.
+Security vulnerabilities should be reported through the mechanisms described below, which we will coordinate with our CRA steward.
+For actively exploited vulnerabilities and severe incidents that may require CRA escalation, please use the project’s emergency security reporting mechanisms as appropriate.
+
 ## Supported Versions
 Veraison repos operate on either a monthly, snapshot or a feature release basis. 
 If there are no explicit stable releases, we only support the latest version.
