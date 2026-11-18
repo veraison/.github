@@ -47,7 +47,7 @@ The project applies a Code of Conduct adapted from the Contributor Covenent. See
 # Community
 
 The VERAISON community holds weekly public meetings to discuss the project progress and plans. All are welcome.
-The meetings are held at 16:00 UK time every Tuesday.
+The meetings are held at 15:30 UK time every Tuesday.
 
 The Meetings are held on Zoom: [Click on this meeting link to join](https://armltd.zoom.us/j/93024860563?pwd=dVpVcFRtSVFmV29HV3dHWENrZk5WQT09)
 Meeting ID: 930 2486 0563
